@@ -23,11 +23,11 @@ The goal of this project is to build a news classification model that can catego
 
 # Features
 
-- ✅ Preprocessing: Punctuation removal, lowercasing, tokenization  
-- ✅ Model training: Fine-tuned BERT & ALBERT using SimpleTransformers  
-- ✅ Model evaluation: Accuracy, Precision, Recall, F1-score  
-- ✅ Data augmentation: SMOTE to address class imbalance  
-- ✅ User interface: Built with **Gradio** for live model interaction  
+-  Preprocessing: Punctuation removal, lowercasing, tokenization  
+-  Model training: Fine-tuned BERT & ALBERT using SimpleTransformers  
+-  Model evaluation: Accuracy, Precision, Recall, F1-score  
+-  Data augmentation: SMOTE to address class imbalance  
+-  User interface: Built with **Gradio** for live model interaction  
 
 ---
 
@@ -40,7 +40,7 @@ The goal of this project is to build a news classification model that can catego
 
 ---
 
-## 📊 Results
+# Results
 
 | Model   | Accuracy |
 |---------|----------|
